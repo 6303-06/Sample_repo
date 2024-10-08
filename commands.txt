@@ -1,0 +1,11 @@
+make directory = mkdir 
+touch = to create a file
+cd = change directory
+cp = copy command
+	cp sourcepath destinationpath
+mv = move command and it is used to rename
+	mv sourcepath destinationpath
+vim = editor
+cat = to view the content of the file
+
+
